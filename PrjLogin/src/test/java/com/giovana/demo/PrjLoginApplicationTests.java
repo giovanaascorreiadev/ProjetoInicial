@@ -1,0 +1,13 @@
+package com.giovana.demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PrjLoginApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
